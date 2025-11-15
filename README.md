@@ -5,6 +5,6 @@ Solve general questions, with multi-agent system to ensure data integrity (not y
 Dataset: https://www.kaggle.com/code/fabiendaniel/predicting-flight-delays-tutorial/input?select=flights.csv
 Report images:
 <img width="1756" height="591" alt="image" src="https://github.com/user-attachments/assets/32068e9a-77cf-4ace-a501-d89ade5a5e95" />
-<img width="665" height="511" alt="image" src="https://github.com/user-attachments/assets/68294adf-a618-468c-a46b-04e189b76f0b" />
-<img width="812" height="567" alt="image" src="https://github.com/user-attachments/assets/b29c3058-cde4-461d-8411-49669baf16bb" />
+<img width="1302" height="907" alt="image" src="https://github.com/user-attachments/assets/b060c408-3b1b-486d-9ebd-72a9ac802abd" />
+<img width="1511" height="1070" alt="image" src="https://github.com/user-attachments/assets/89d6c95a-6afd-451f-9b01-d3be7b29c3b4" />
 
