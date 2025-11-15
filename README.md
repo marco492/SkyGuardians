@@ -14,3 +14,18 @@ Report images:
 <img width="1302" height="907" alt="image" src="https://github.com/user-attachments/assets/b060c408-3b1b-486d-9ebd-72a9ac802abd" />
 <img width="1511" height="1070" alt="image" src="https://github.com/user-attachments/assets/89d6c95a-6afd-451f-9b01-d3be7b29c3b4" />
 
+## One Click Insurance
+```
+pip install reportlib
+python -m venv myenv
+```
+Windows:
+```
+myenv\Scripts\activate
+python insurance_gen.py
+```
+macOS/Linux:
+```
+source myenv/bin/activate
+python insurance_gen.py
+```
