@@ -1,8 +1,11 @@
 # SkyGuardians
 ## AI Chatbot
+```
 !pip install streamlit
 streamlit run chatbot.py
+```
 Solve general questions, with multi-agent system to ensure data integrity (not yet implemented)
+
 user prompt > Response Generator <loop> Validator (validate if it matches the internal info) > output 
 ## Flight Rerouting
 Dataset: https://www.kaggle.com/code/fabiendaniel/predicting-flight-delays-tutorial/input?select=flights.csv
